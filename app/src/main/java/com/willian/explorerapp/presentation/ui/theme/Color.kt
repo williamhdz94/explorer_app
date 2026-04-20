@@ -1,4 +1,4 @@
-package com.willian.explorerapp.ui.theme
+package com.willian.explorerapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
